@@ -16,6 +16,12 @@
 
 import datetime as dt
 
-now_time = dt.datetime.now()
-year = now_time.year
-print(year)
+# now_time = dt.datetime.now()
+# year = now_time.year
+# day_of_week = now_time.weekday()
+# print(day_of_week)
+#
+# date_of_birth = dt.datetime(year=1998, month=1, day=16)
+# print(date_of_birth)
+
+
